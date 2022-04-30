@@ -1,1 +1,1 @@
-// This is a question ansering engine which answers questions on covid-19 using the COORD dataset and BERT NLP Models
+This repository hosts my code for deep learning NLP COVID Question Answering System. 
